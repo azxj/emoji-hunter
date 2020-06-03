@@ -1,0 +1,30 @@
+# Visual Studio Code
+# https://github.com/github/gitignore/blob/master/Global/VisualStudioCode.gitignore
+## General
+.vscode/*
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+## Local History for Visual Studio Code
+.history/
+
+# MAC OS
+# https://github.com/github/gitignore/blob/master/Global/macOS.gitignore
+## General
+.DS_Store
+.AppleDouble
+.LSOverride
+## Icon must end with two \r
+Icon
+## Thumbnails
+._*
+
+# Node
+# https://github.com/github/gitignore/blob/master/Node.gitignore
+## Dependency directories
+node_modules/
+
+dist/browser/js/
+dist/server/
